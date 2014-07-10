@@ -1,0 +1,10 @@
+wp-content/backup/*
+wp-content/cache/*
+wp-content/upgrade/*
+wp-content/uploads/*
+sitemap.*
+wp-config.php
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
+!wp-content/uploads/.htaccess
